@@ -1,4 +1,5 @@
 from src.database import add_reminder, list_reminders
+from src.deadlined_reminders import DeadlinedReminder
 
 
 def handle_input():

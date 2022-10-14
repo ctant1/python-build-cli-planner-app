@@ -1,5 +1,5 @@
 import csv
-from src.reminder import DeadlinedReminder
+from deadlined_reminders import DeadlinedReminder
 
 
 
