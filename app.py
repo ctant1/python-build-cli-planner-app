@@ -1,6 +1,7 @@
 from src.database import add_reminder, list_reminders
-from src.deadlined_reminders import DeadlinedReminder
+from src.deadlined_reminders import DeadlinedReminder 
 from src.external_reminders import EveningReminder
+from src.reminder import PoliteReminder
 
 
 def handle_input():
